@@ -1,0 +1,7 @@
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Debug\EVE EER.vbprojResolveAssemblyReference.cache
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Debug\EVE_EER.MainForm.resources
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Debug\EVE EER.vbproj.GenerateResource.Cache
+C:\Share\_DEV_\EVE EER\EVE EER\bin\Debug\EVE EER.exe
+C:\Share\_DEV_\EVE EER\EVE EER\bin\Debug\EVE EER.pdb
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Debug\EVE EER.exe
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Debug\EVE EER.pdb

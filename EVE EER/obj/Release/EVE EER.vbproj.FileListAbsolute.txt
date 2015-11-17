@@ -1,0 +1,10 @@
+D:\Download\_Portable Apps\SharpDevelopPortable\Data\SharpDevelop Projects\EVE EER\EVE EER\bin\Release\EVE EER.exe
+D:\Download\_Portable Apps\SharpDevelopPortable\Data\SharpDevelop Projects\EVE EER\EVE EER\obj\Release\EVE EER.vbprojResolveAssemblyReference.cache
+D:\Download\_Portable Apps\SharpDevelopPortable\Data\SharpDevelop Projects\EVE EER\EVE EER\obj\Release\EVE_EER.MainForm.resources
+D:\Download\_Portable Apps\SharpDevelopPortable\Data\SharpDevelop Projects\EVE EER\EVE EER\obj\Release\EVE EER.vbproj.GenerateResource.Cache
+D:\Download\_Portable Apps\SharpDevelopPortable\Data\SharpDevelop Projects\EVE EER\EVE EER\obj\Release\EVE EER.exe
+C:\Share\_DEV_\EVE EER\EVE EER\bin\Release\EVE EER.exe
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Release\EVE EER.vbprojResolveAssemblyReference.cache
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Release\EVE_EER.MainForm.resources
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Release\EVE EER.vbproj.GenerateResource.Cache
+C:\Share\_DEV_\EVE EER\EVE EER\obj\Release\EVE EER.exe
